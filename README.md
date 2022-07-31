@@ -1,4 +1,5 @@
-# Winter-Mist
+![logo](https://user-images.githubusercontent.com/60283532/182013491-1c10b36e-3f14-4118-bfd2-e853d374ddf9.png)
+
 A flat grey/white theme suite for Gnome, XFCE and Budie DE.
 
 
